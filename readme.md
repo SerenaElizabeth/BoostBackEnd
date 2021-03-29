@@ -36,3 +36,5 @@
 
 Resource:
 [Database Tables Design](https://docs.google.com/presentation/d/1hhhONPnKfxotoaStLsFVPMhondxvifOlVBJBpZfzdQc/edit#slide=id.p)
+
+.
